@@ -14,7 +14,11 @@ function subtracao(a,b){
     return a - b;
 }
 
-function teto(a){
+function floor(numero1){
+    return Math.floor(numero1);
+ }
+
+ function teto(a){
     return Math.ceil(a);
 }
 
