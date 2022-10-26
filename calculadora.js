@@ -14,6 +14,11 @@ function subtracao(a,b){
     return a - b;
 }
 
+ function floor(numero1){
+    return Math.floor(numero1);
+ }
+
+
 module.exports = {
     soma,
     subtracao,
