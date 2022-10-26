@@ -1,5 +1,5 @@
-function soma(a,b){
-    return a + b;
+function soma(numero1,b){
+    return numero1 + b;
 }
 
 function multiplicacao(a,b){
