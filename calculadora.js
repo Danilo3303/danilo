@@ -14,6 +14,10 @@ function subtracao(a,b){
     return a - b;
 }
 
+function teto(a){
+    return Math.ceil(a);
+}
+
 module.exports = {
     soma,
     subtracao,
